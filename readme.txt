@@ -1,4 +1,5 @@
-Cisco used to ask candidates applying for a developer's job in Cloud Web Secruty. This test is not used anymore.
+This is a test Cisco used to ask candidates applying for a developer's job in Cloud Web Secruty.
+This test is not used anymore.
 
 I have developed this using non-blocking IO, as I thought that using blocking IO was way too easy. Later when I was employed and was avaluating new candidates tests I have never seen anybody using non-blocking IO (it appears that I did more then required).
 
